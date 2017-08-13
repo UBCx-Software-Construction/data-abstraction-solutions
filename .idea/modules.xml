@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BandMaster/BandMaster.iml" filepath="$PROJECT_DIR$/BandMaster/BandMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContactMaster/ContactMaster.iml" filepath="$PROJECT_DIR$/ContactMaster/ContactMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FriendNetMaster/FriendNetMaster.iml" filepath="$PROJECT_DIR$/FriendNetMaster/FriendNetMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibrarySystemMaster/LibrarySystemMaster.iml" filepath="$PROJECT_DIR$/LibrarySystemMaster/LibrarySystemMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderMaster/OrderMaster.iml" filepath="$PROJECT_DIR$/OrderMaster/OrderMaster.iml" />
+    </modules>
+  </component>
+</project>

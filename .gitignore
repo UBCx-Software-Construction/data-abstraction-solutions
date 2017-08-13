@@ -1,0 +1,6 @@
+# This is a gitignore file
+# Anything in this file will be ignored
+
+.DS_Store
+out/
+workspace.xml
