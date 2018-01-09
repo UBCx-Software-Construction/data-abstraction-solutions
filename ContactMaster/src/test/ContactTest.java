@@ -43,13 +43,13 @@ public class ContactTest {
     @Test
     public void testGenerateResponse(){
         testContact.setContactType(Contact.ContactType.FAMILY);
-        assertEquals(testContact.generateResponse(), "Love you too");
+        assertEquals(testContact.generateResponse(), "See you at home.");
 
         testContact.setContactType(Contact.ContactType.FRIEND);
-        assertEquals(testContact.generateResponse(), "Awesome!");
+        assertEquals(testContact.generateResponse(), "Meet you at the cafe.");
 
         testContact.setContactType(Contact.ContactType.WORK);
-        assertEquals(testContact.generateResponse(), "Sounds good");
+        assertEquals(testContact.generateResponse(), "I'll get back to you at work.");
     }
 
 
